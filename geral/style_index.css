@@ -1,5 +1,5 @@
 nav {
-    background-color: #4CAF50;
+    background-color: #008507;
     overflow: hidden;
 }
 nav a {
@@ -8,21 +8,49 @@ color: white;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif   ;
 }
 
 nav a:hover {
-background-color: #ddd;
+background-color: #ffa914;
 color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
 /* Estilos do cabeçalho */
 header {
-background-color: #4CAF50;
+background-color:#008507;
 color: white;
 text-align: center;
-padding: 10px;
+padding: 6px;
 }
+body{
+    background: #ffffe0;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -10px;
+    margin-bottom: -15px;
+   
+   
+    
+}
+img{
+    width: 300px;
+    height: 106px;
+}
+#simbolo{
+    width: 1585px;
+    height:250px;
 
+}
+.containner fidure.simbolo2{
+    width: ;
+    height: ;
+    border-radius: ;
+    box-shadow: ;
+    background-image: url() ;
+}
 .reser{ 
 text-align: center;	
 } 
