@@ -39,18 +39,26 @@ img{
     width: 300px;
     height: 106px;
 }
-#simbolo{
+.simbolo{
     width: 1585px;
     height:250px;
 
 }
-.containner fidure.simbolo2{
-    width: ;
-    height: ;
-    border-radius: ;
-    box-shadow: ;
-    background-image: url() ;
+
+.img1 {
+    padding: 0;
+    width: 1600px;
+    height: 330px;
+    overflow: hidden;
+
 }
+
 .reser{ 
 text-align: center;	
 } 
+.pbl{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin: -280px -40px; 
+}
